@@ -1,60 +1,55 @@
-body{
-    background-color: #ECDFCC;
-    color: #3C3D37;
+body {
+  background-color: #ecdfcc;
+  color: #3c3d37;
 }
-.profile{
-    border-radius: 50%;
-    border: solid #3C3D37 5px;
-    width: 40%;
+.profile {
+  border-radius: 50%;
+  border: solid #3c3d37 5px;
+  width: 40%;
 }
-.header{
-    width: 50%;
-    margin-left: 25%;
-    text-align: center;
-
+.header {
+  width: 50%;
+  margin-left: 25%;
+  text-align: center;
 }
-h1{
-    color: #3C3D37;
-    font-family: "Doto", sans-serif;
-    font-optical-sizing: auto;
-    font-style: normal;
-    font-variation-settings:
-    "ROND" 0;
+h1 {
+  color: #3c3d37;
+  font-family: 'Sacramento', serif;
+  font-weight: 400;
+  font-style: normal;
 }
-p{
-    font-family: "Edu AU VIC WA NT Hand", cursive;
-    font-optical-sizing: auto;
-    font-style: normal;
+p {
+  font-family: 'Edu AU VIC WA NT Hand', cursive;
+  font-optical-sizing: auto;
+  font-style: normal;
 }
-.paragraph{
-    text-align: center;
+.paragraph {
+  text-align: center;
 }
-a{
-    text-decoration: none;
-    color: #3C3D37;
+a {
+  text-decoration: none;
+  color: #3c3d37;
 }
-.form{
-    border-style:groove;
-    border: solid black ;
-    background-color: #BB8493;
+.form {
+  border-style: groove;
+  border: solid black;
+  background-color: #bb8493;
 }
-footer{
-    text-align: center;
+footer {
+  text-align: center;
 }
-span{
-    font-size: 30px;
-    font-family: "Love Light", cursive;
-    font-weight: 400;
-    font-style: normal;
+span {
+  font-size: 30px;
+  font-family: 'Love Light', cursive;
+  font-weight: 400;
+  font-style: normal;
 }
-.para{
-    text-align: center;
+.para {
+  text-align: center;
 }
-
-
 
 @media (max-width: 320px) {
-    .about{
-        text-align: justify;
-    }
+  .about {
+    text-align: justify;
+  }
 }
